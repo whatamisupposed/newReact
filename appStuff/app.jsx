@@ -14,5 +14,4 @@ const App = () => {
     </ExpenseTrackerProvider>
   );
 };
-
 export default App;
